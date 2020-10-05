@@ -21,7 +21,7 @@
   <p align="center">
     A command to add some rainbow colors to your terminal
     <br />
-    <a href="https://github.com/Flolight/flolcat/issues">Report Bug</a>
+    <a href="https://github.com/Flolight/flolcat/issues">flolcatrt Bug</a>
     ·
     <a href="https://github.com/Flolight/flolcat/issues">Request Feature</a>
   </p>
@@ -86,16 +86,16 @@ Project Link: [https://github.com/Flolight/flolcat](https://github.com/Flolight/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Flolight/repo.svg?style=flat-square
-[contributors-url]: https://github.com/Flolight/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Flolight/repo.svg?style=flat-square
-[forks-url]: https://github.com/Flolight/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Flolight/repo.svg?style=flat-square
-[stars-url]: https://github.com/Flolight/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Flolight/repo.svg?style=flat-square
-[issues-url]: https://github.com/Flolight/repo/issues
-[license-shield]: https://img.shields.io/github/license/Flolight/repo.svg?style=flat-square
-[license-url]: https://github.com/Flolight/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Flolight/flolcat.svg?style=flat-square
+[contributors-url]: https://github.com/Flolight/flolcat/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Flolight/flolcat.svg?style=flat-square
+[forks-url]: https://github.com/Flolight/flolcat/network/members
+[stars-shield]: https://img.shields.io/github/stars/Flolight/flolcat.svg?style=flat-square
+[stars-url]: https://github.com/Flolight/flolcat/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Flolight/flolcat.svg?style=flat-square
+[issues-url]: https://github.com/Flolight/flolcat/issues
+[license-shield]: https://img.shields.io/github/license/Flolight/flolcat.svg?style=flat-square
+[license-url]: https://github.com/Flolight/flolcat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/florianclanet
 [product-screenshot]: images/screenshot.png
